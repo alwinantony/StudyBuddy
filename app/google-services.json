@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "studybuddy-1251",
+    "project_number": "378420931597",
+    "name": "StudyBuddy"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378420931597:android:e7a7a8a71ab16c07",
+        "client_id": "android:com.example.alwin.studybuddy",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.alwin.studybuddy",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378420931597-ei1rj4g2s3c9lve6puj4hq1v5uh3frtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alwin.studybuddy",
+            "certificate_hash": "06B89AD44BC373EE4667E59CF7C9A6F3AA52F563"
+          }
+        },
+        {
+          "client_id": "378420931597-5d6pr4trf74cvjvodf67pqefprmdfl0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
